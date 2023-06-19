@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='Service Connection',
+    name='serviceconnection',
     version='1.0.1',
     description='To estbilash connection between micro services',
     url='https://github.com/golisatyayellachari/Service-Connection.git',
